@@ -1,0 +1,5 @@
+# create_vectordb.py would create sepolicy_db for RAG
+# attached sepolicy_db after running create_vectordb.py if you want to generate sepolcy_db run create_vectordb.py it expect books dir ( attached dir also )
+# streamlit if not already there install streamlit module and then run below command
+# run below command for running selinux chatbot 
+streamlit run selinux_chatbot_prototype.py 
